@@ -1,6 +1,8 @@
 package main
 
 // Hello
+// World
+// And others
 
 import "fmt"
 
